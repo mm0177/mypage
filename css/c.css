@@ -1,0 +1,26 @@
+h1{
+    position: relative;
+    left: 65px;
+}
+h4{
+    position: relative;
+    left: 90px;
+}
+.first{
+    text-transform: uppercase;
+    font-family: 'Libre Baskerville', serif;
+
+    margin-top: 150px;
+    margin-left: 400px;
+    
+    
+   
+    color:white;
+}
+body{
+    background-color: black;
+}
+#lady{
+    width: 50%;
+    border: 5px solid white;
+}
